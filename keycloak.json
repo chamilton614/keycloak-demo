@@ -1,6 +1,6 @@
 {
   "realm": "merits",
-  "auth-server-url": "http://merits-keycloak.apps.ocp4dvst.cmers.com/",
+  "auth-server-url": "https://merits-keycloak.apps.ocp4dvst.cmers.com/",
   "ssl-required": "external",
   "resource": "service-nodejs",
   "credentials": {
