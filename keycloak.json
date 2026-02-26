@@ -1,0 +1,10 @@
+{
+  "realm": "rhbk-demo",
+  "auth-server-url": "https://rhbk-rhbk-demo.apps.cluster-zwh96.dynamic.redhatworkshops.io/",
+  "ssl-required": "external",
+  "resource": "service-nodejs",
+  "credentials": {
+    "secret": "VJraHPxHrlndneRMK9nsGeheB2W5SQNM"
+  },
+  "confidential-port": 0
+}
